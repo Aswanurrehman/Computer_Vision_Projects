@@ -33,3 +33,28 @@ this readme file contains projects and learning material for openCv.
 <br><br>
 <img src="image/airdrum.png">
 <br><br>
+
+
+**-----------------------------------------------------------------------------------------------------------------**
+<br><br>
+
+* # [Emotion Detection : ](https://github.com/Aswanurrehman/Computer_Vision_Projects/tree/main/EmotionDetection)
+
+    
+**some output pic**
+
+Happy 😀
+<br><br>
+<img src="image/Happy.png">
+<br><br>
+
+Neutral 🙂
+<br><br>
+<img src="image/Neutral.png">
+<br><br>
+    
+Sad 😔
+
+<br><br>
+<img src="image/Sad.png">
+<br><br>
